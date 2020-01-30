@@ -1,14 +1,14 @@
 // Initialize Firebase
 var index = 0;
 
- // Initialize Firebase https://console.firebase.google.com/u/0/project/trainchoochoo-bf5aa/overview
+ // Initialize Firebase 
  var config = {
-  apiKey: "AIzaSyCSOBKLrMeN2W73DGtgMoAgFSS3vC_bNDY",
-  authDomain: "trainchoochoo-bf5aa.firebaseapp.com",
-  databaseURL: "https://trainchoochoo-bf5aa.firebaseio.com",
-  projectId: "trainchoochoo-bf5aa",
-  storageBucket: "trainchoochoo-bf5aa.appspot.com",
-  messagingSenderId: "753497564102"
+  apiKey: "AIzaSyC8GYZf9r9W_PoyyH5rOuHM9-GAM36M9BY",
+  authDomain: "Train Schedular.firebaseapp.com",
+  databaseURL: "https://train-schedular.firebaseio.com",
+  projectId: "train-schedular-fb278",
+  storageBucket: "train-schedular-fb278.appspot.com",
+  messagingSenderId: "153171583054"
 };
 firebase.initializeApp(config);
 
